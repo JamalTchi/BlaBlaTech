@@ -3,7 +3,9 @@ Date : 2021-11-22
 Projet : BlablaTech
 webApp de messagerie instantanée avec un serveur Flask et un frontend React.  
 #####
-
+design sur figma:
+  - version Desktop: https://www.figma.com/file/7Tl1rRwfgMktB5efdxlMjE/BlaBlaApp?node-id=0%3A1
+  - version Mobile:  https://www.figma.com/file/7Tl1rRwfgMktB5efdxlMjE/BlaBlaApp
 Dossier Git-lab :
 git clone https://gitlab.matrice.io/blablapp-react-426/jtchibb-blablapp-react
 
