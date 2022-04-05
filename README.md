@@ -1,5 +1,5 @@
 ######
-Date : 2021-11-22
+Date : 22-11-2021
 Projet : BlablaTech
 
 WebApp de messagerie instantanée avec un serveur Flask et un frontend React.  
