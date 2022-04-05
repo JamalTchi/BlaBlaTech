@@ -40,24 +40,24 @@ résultat ==> jtchibb-blablapp-react
 
 # Prérequis à installer avant la première utilisation :
 
-## Dans le répertoire : jtchibb-blablapp-react/Back
+### Dans le répertoire : jtchibb-blablapp-react/Back
 
 pip3 install -r requirements.txt
 
->>> Lancer le Back
+>>> Executer le serveur flask :
 
-python3 init_db.py (ou lancer directement le "Run")
+python3 init_db.py (ou executer directement le "Run")
 
-python3 main.py (ou lancer directement le "Run")
+python3 main.py (ou executer directement le "Run")
 
 ## Installer Socket io dans le back
-# Dans le répertoire : jtchibb-blablapp-react/Back
+### Dans le répertoire : jtchibb-blablapp-react/Back
 
 pip install flask-socketio
 
 pip install simple-websocket
 
-## Dans le répertoire : jtchibb-blablapp-react/Front (ReactApp)
+### Dans le répertoire : jtchibb-blablapp-react/Front (ReactApp)
 
 >>> Installer Socket io dans le Front
 
